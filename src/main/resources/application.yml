@@ -28,6 +28,6 @@ management:
 
 security:
   jwt:
-    secret: ${JWT_SECRET:}
+    secret: ${JWT_SECRET:Mazgi1key_PazgiMazgiLazgiMaz!@#giyor}
     issuer: bookstore
     expiry-minutes: 120
